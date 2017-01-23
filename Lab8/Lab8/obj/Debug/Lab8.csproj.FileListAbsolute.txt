@@ -1,2 +1,0 @@
-C:\Users\alina\Source\Repos\Lab\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
-C:\Users\alina\Desktop\MVC\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
